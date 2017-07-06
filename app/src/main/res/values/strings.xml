@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Registro de Datos</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fecha">Fecha</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="des_cont">Descripcion Contacto</string>
+    <string name="confirmardatos">Confirmar Datos</string>
+    <string name="confnombre">Omar de Jesus Hidrogo Munoz</string>
+    <string name="conffech">Fecha Nacimiento</string>
+    <string name="conffechanacimiento">08/12/2017</string>
+    <string name="tvtel">Tel:</string>
+    <string name="mostel">8711363102</string>
+    <string name="tvemail">Email:</string>
+    <string name="mosemail">omar.hidrogo@tormex.com.mx</string>
+    <string name="tvdesc">Descripcion:</string>
+    <string name="mosdesc">Conoci a Omar en el Restaurante de comida Mexicana</string>
+    <string name="boton1">Siguiente</string>
+    <string name="boton2">Editar Datos</string>
+
+
+</resources>

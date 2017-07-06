@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="registro">15dp</dimen>
+    <dimen name="alboton">45dp</dimen>
+    <dimen name="confirmardatos">20dp</dimen>
+    <dimen name="leftleft">10dp</dimen>
+    <dimen name="topnombre">25dp</dimen>
+    <dimen name="lefttext">10dp</dimen>
+    <dimen name="top">15dp</dimen>
+    <dimen name="boton">200dp</dimen>
+
+</resources>
